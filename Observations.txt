@@ -1,0 +1,7 @@
+Observations:
+
+1) Capomulin and Ramicane show the highest efficacy in reducing tumor volume when looking at Capomulin, Ramicane, Infubinol, and Ceftamin.
+
+2) There is a positive correlation between a mouse's weight in grams and the tumor volume (mm3). However, this may be because the tumor volume is contributing to the mouse's weight.
+
+3) Mouse RR54, treated with the Capomulin drug regimen, showed a significant decrease in tumor volume at Timepoint 5. The reduction in tumor volume began to level out around 34 mm3 (timepoint 25), potentially indicating that there is a limit to the amount the tumor size can be reduced. 
